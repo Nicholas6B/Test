@@ -1,27 +1,27 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_forward" id="10" x="20" y="-343">
+  <block type="movement_forward" id="1" x="20" y="-343">
     <next>
-      <block type="movement_forward" id="30">
+      <block type="movement_forward" id="2">
         <next>
-          <block type="movement_reverse" id="40">
+          <block type="movement_reverse" id="3">
             <next>
-              <block type="movement_reverse" id="50">
+              <block type="movement_reverse" id="4">
                 <next>
-                  <block type="movement_right" id="69">
+                  <block type="movement_right" id="5">
                     <next>
-                      <block type="movement_right" id="79">
+                      <block type="movement_right" id="6">
                         <next>
-                          <block type="movement_right" id="89">
+                          <block type="movement_right" id="7">
                             <next>
-                              <block type="movement_left" id="99">
+                              <block type="movement_left" id="8">
                                 <next>
-                                  <block type="movement_left" id="109">
+                                  <block type="movement_left" id="9">
                                     <next>
-                                      <block type="movement_forward" id="119">
+                                      <block type="movement_forward" id="10">
                                         <next>
-                                          <block type="movement_reverse" id="129">
+                                          <block type="movement_reverse" id="11">
                                             <next>
-                                              <block type="movement_right" id="139"></block>
+                                              <block type="movement_right" id="12"></block>
                                             </next>
                                           </block>
                                         </next>
